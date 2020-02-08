@@ -152,11 +152,6 @@ class Solution(object):
 
 if __name__ == '__main__':
     # Eating Order: 7,8,7,5 
-    board_thin = [
-                [5, 7, 8, 6, 3],
-                []
-            ]
-    # Eating Order: 7,8,7,5 
     board = [
                 [5, 7, 8, 6, 3],
                 [0, 0, 7, 0, 4],
